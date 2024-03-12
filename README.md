@@ -1,5 +1,5 @@
 # Compact and Quiet Air Compressor
-A small and quiet air compressor design using 3D printed parts where possible.
+A small and quiet air compressor design using 3D printed parts where possible.<br>
 CAD models are available as Fusion360 Project and as STEP file.
 
 <br><br>
