@@ -8,4 +8,4 @@ A small and quiet air compressor design using 3D printed parts where possible.
 
 <br><br>
 
-CAD models are available as the original Fusion360 Project and as STEP file.
+CAD models are available as Fusion360 Project and as STEP file.
