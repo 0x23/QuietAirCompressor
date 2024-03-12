@@ -6,4 +6,6 @@ A small and quiet air compressor design using 3D printed parts where possible.
     <img src="/images/air_compressor_01.jpg" alt="Air Compressor CAD" height="300px">
 </div>
 
+<br><br>
+
 CAD models are available as the original Fusion360 Project and as STEP file.
